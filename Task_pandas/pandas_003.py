@@ -9,3 +9,5 @@ data = ''','First_Name,Last_Name,Company_Name,Address,City,Country,Postal,Phone_
 
 new = data.split(",")
 print(new)
+new.append("add this inside the list")
+print(new)
